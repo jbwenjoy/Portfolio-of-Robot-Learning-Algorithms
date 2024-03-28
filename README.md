@@ -1,4 +1,4 @@
-# Portfolio-of-Robot-Learning-Algorithms
+# Portfolio-of-Robotics-Algorithms
 
 My personal portfolio of robot learning algorithms, from course materials in 517 and 650 at UPenn.
 
