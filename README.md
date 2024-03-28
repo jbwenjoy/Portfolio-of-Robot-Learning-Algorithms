@@ -22,25 +22,33 @@ My personal portfolio of robot learning algorithms, from course materials in 517
 
 1. Energy shaping of a cartpole system
 
-<img src="/517%20-%20Energy%20Shaping/cartpole_trajectory.png" width = "70%" alt="Energy Shaping" align="center" />
+<div align="center">
+<img src="/517%20-%20Energy%20Shaping/cartpole_trajectory.png" width = "50%" alt="Energy Shaping" />
+</div>
 
 See animation in main.ipynb.
 
 2. LQR for a 2D quadrotor
 
-<img src="/517%20-%20TV-LQR%20Value%20Iteration/quadrotor_trajectory.png" width = "70%" alt="LQR" align="center" />
+<div align="center">
+<img src="/517%20-%20TV-LQR%20Value%20Iteration/quadrotor_trajectory.png" width = "50%" alt="LQR" />
+</div>
 
 See animation in main.ipynb.
 
 3. MPC for a 2D quadrotor
 
-<img src="/517%20-%20MPC%20OSC/mpctrajectory.png" width = "70%" alt="MPC" align="center" />
+<div align="center">
+<img src="/517%20-%20MPC%20OSC/mpctrajectory.png" width = "50%" alt="MPC" />
+</div>
 
 See animation in main.ipynb.
 
 4. iLQR
 
-<img src="/517%20-%20iLQR%20Direct%20Collocation/ilqroutput.png" width = "70%" alt="iLQR" align="center" />
+<div align="center">
+<img src="/517%20-%20iLQR%20Direct%20Collocation/ilqroutput.png" width = "50%" alt="iLQR" />
+</div>
 
 See animation in main.ipynb.
 
@@ -56,13 +64,15 @@ See animation in main.ipynb.
 
 8. 2D SLAM with Particle Filter
 
-<img src="/650 - SLAM with PF/slam_map_train_00.jpg" width = "70%" alt="SLAM Data 0" align=center />
+<div align="center">
+<img src="/650 - SLAM with PF/slam_map_train_00.jpg" width = "50%" alt="SLAM Data 0" />
 
-<img src="/650 - SLAM with PF/slam_map_train_01.jpg" width = "70%" alt="SLAM Data 1" align=center />
+<img src="/650 - SLAM with PF/slam_map_train_01.jpg" width = "50%" alt="SLAM Data 1" />
 
-<img src="/650 - SLAM with PF/slam_map_train_02.jpg" width = "70%" alt="SLAM Data 2" align=center />
+<img src="/650 - SLAM with PF/slam_map_train_02.jpg" width = "50%" alt="SLAM Data 2" />
 
-<img src="/650 - SLAM with PF/slam_map_train_03.jpg" width = "70%" alt="SLAM Data 3" align=center />
+<img src="/650 - SLAM with PF/slam_map_train_03.jpg" width = "50%" alt="SLAM Data 3" />
+</div>
 
 9. NeRF
 
@@ -70,4 +80,6 @@ To be updated.
 
 10. Dynamic Programming (Value Iteration)
 
-<img src="/517%20-%20TV-LQR%20Value%20Iteration/value_function.png" width = "70%" alt="Value Iteration" align="center" />
+<div align="center">
+<img src="/517%20-%20TV-LQR%20Value%20Iteration/value_function.png" width = "50%" alt="Value Iteration" />
+</div>
