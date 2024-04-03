@@ -1,4 +1,4 @@
-# Portfolio-of-Robot-Learning-Algorithms
+# Portfolio-of-Robotics-Algorithms
 
 My personal portfolio of robot learning algorithms, from course materials in 517 and 650 at UPenn.
 
@@ -16,7 +16,7 @@ My personal portfolio of robot learning algorithms, from course materials in 517
 
 4. Planning: Dynamic Programming, etc (to be updated)
 
-5. Reinforcement Learning: (to be updated)
+5. Robot Learning: HMM, DQN (to be updated)
 
 ## Results and Demos
 
