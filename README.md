@@ -20,76 +20,84 @@ My personal portfolio of robot learning algorithms, from course materials in 517
 
 ## Results and Demos
 
-1. Energy shaping of a cartpole system
+### 1. Energy shaping of a cartpole system
 
-<div align="center">
-<img src="/517%20-%20Energy%20Shaping/cartpole_trajectory.png" width = "40%" alt="Energy Shaping" />
-</div>
+  <div align="center">
+  <img src="/517%20-%20Energy%20Shaping/cartpole_trajectory.png" width = "40%" alt="Energy Shaping" />
+  </div>
+  
+  See animation in main.ipynb.
 
-See animation in main.ipynb.
+### 2. LQR for a 2D quadrotor
 
-2. LQR for a 2D quadrotor
+  <div align="center">
+  <img src="/517%20-%20TV-LQR%20Value%20Iteration/quadrotor_trajectory.png" width = "40%" alt="LQR" />
+  </div>
+  
+  See animation in main.ipynb.
 
-<div align="center">
-<img src="/517%20-%20TV-LQR%20Value%20Iteration/quadrotor_trajectory.png" width = "40%" alt="LQR" />
-</div>
+### 3. MPC for a 2D quadrotor
 
-See animation in main.ipynb.
+  <div align="center">
+  <img src="/517%20-%20MPC%20OSC/mpctrajectory.png" width = "40%" alt="MPC" />
+  </div>
+  
+  See animation in main.ipynb.
 
-3. MPC for a 2D quadrotor
+### 4. iLQR
 
-<div align="center">
-<img src="/517%20-%20MPC%20OSC/mpctrajectory.png" width = "40%" alt="MPC" />
-</div>
+  <div align="center">
+  <img src="/517%20-%20iLQR%20Direct%20Collocation/ilqroutput.png" width = "40%" alt="iLQR" />
+  </div>
+  
+  See animation in main.ipynb.
 
-See animation in main.ipynb.
+### 5. Direct Collocation
 
-4. iLQR
+  See animation in main.ipynb.
 
-<div align="center">
-<img src="/517%20-%20iLQR%20Direct%20Collocation/ilqroutput.png" width = "40%" alt="iLQR" />
-</div>
+### 6. Min-snap
 
-See animation in main.ipynb.
+  See animation in main.ipynb.
 
-5. Direct Collocation
+### 7. Kalman Filter, EKF, & UKF for quaternions
 
-See animation in main.ipynb.
+  
 
-6. Min-snap
+### 8. 2D SLAM with Particle Filter
 
-See animation in main.ipynb.
+  <div align="center">
+  <img src="/650 - SLAM with PF/slam_map_train_00.jpg" width = "40%" alt="SLAM Data 0" />
+  
+  <img src="/650 - SLAM with PF/slam_map_train_01.jpg" width = "40%" alt="SLAM Data 1" />
+  
+  <img src="/650 - SLAM with PF/slam_map_train_02.jpg" width = "40%" alt="SLAM Data 2" />
+  
+  <img src="/650 - SLAM with PF/slam_map_train_03.jpg" width = "40%" alt="SLAM Data 3" />
+  </div>
 
-7. Kalman Filter, EKF, & UKF for quaternions
+### 9. NeRF
 
-8. 2D SLAM with Particle Filter
+  <div align="center">
+  <img src="/650 - NeRF/training_progress_2_100.png" width = "90%" alt="NeRF at Iteration 100" />
+  
+  <img src="/650 - NeRF/training_progress_2_1000.png" width = "90%" alt="NeRF at Iteration 1000" />
+  
+  <img src="/650 - NeRF/training_progress_2_2000.png" width = "90%" alt="NeRF at Iteration 2000" />
+  
+  <img src="/650 - NeRF/training_progress_2_4950.png" width = "90%" alt="NeRF at Iteration 4950" />
+  </div>
+  
+  To be updated.
 
-<div align="center">
-<img src="/650 - SLAM with PF/slam_map_train_00.jpg" width = "40%" alt="SLAM Data 0" />
+### 10. Dynamic Programming (Value Iteration)
 
-<img src="/650 - SLAM with PF/slam_map_train_01.jpg" width = "40%" alt="SLAM Data 1" />
+  <div align="center">
+  <img src="/517%20-%20TV-LQR%20Value%20Iteration/value_function.png" width = "40%" alt="Value Iteration" />
+  </div>
 
-<img src="/650 - SLAM with PF/slam_map_train_02.jpg" width = "40%" alt="SLAM Data 2" />
+## Acknowledgements
 
-<img src="/650 - SLAM with PF/slam_map_train_03.jpg" width = "40%" alt="SLAM Data 3" />
-</div>
+650 course materials are from Prof. Pratik Chaudhari, 517 course materials are from Prof. Michael Posa. 
 
-9. NeRF
-
-<div align="center">
-<img src="/650 - NeRF/training_progress_2_100.png" width = "90%" alt="NeRF at Iteration 100" />
-
-<img src="/650 - NeRF/training_progress_2_1000.png" width = "90%" alt="NeRF at Iteration 1000" />
-
-<img src="/650 - NeRF/training_progress_2_2000.png" width = "90%" alt="NeRF at Iteration 2000" />
-
-<img src="/650 - NeRF/training_progress_2_4950.png" width = "90%" alt="NeRF at Iteration 4950" />
-</div>
-
-To be updated.
-
-10. Dynamic Programming (Value Iteration)
-
-<div align="center">
-<img src="/517%20-%20TV-LQR%20Value%20Iteration/value_function.png" width = "40%" alt="Value Iteration" />
-</div>
+During my implementation, I also learned a lot from Anirudh Kailaje (https://github.com/KailajeAnirudh). Please also star his wonderful reposif you find mine helpful.
