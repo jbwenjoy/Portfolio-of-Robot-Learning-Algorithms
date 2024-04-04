@@ -76,6 +76,16 @@ See animation in main.ipynb.
 
 9. NeRF
 
+<div align="center">
+<img src="/650 - NeRF/training_progress_2_100.png" width = "50%" alt="NeRF at Iteration 100" />
+
+<img src="/650 - NeRF/training_progress_2_1000.png" width = "50%" alt="NeRF at Iteration 1000" />
+
+<img src="/650 - NeRF/training_progress_2_2000.png" width = "50%" alt="NeRF at Iteration 2000" />
+
+<img src="/650 - NeRF/training_progress_2_4950.png" width = "50%" alt="NeRF at Iteration 4950" />
+</div>
+
 To be updated.
 
 10. Dynamic Programming (Value Iteration)
