@@ -86,4 +86,4 @@ My personal portfolio of robot learning algorithms, from course materials in 517
 
 650 course materials are from Prof. Pratik Chaudhari, 517 course materials are from Prof. Michael Posa. 
 
-During my implementation, I also learned a lot from Anirudh Kailaje (https://github.com/KailajeAnirudh). Please also star his wonderful reposif you find mine helpful.
+During my implementation, I also learned a lot from Anirudh Kailaje (https://github.com/KailajeAnirudh). Please also star his wonderful repositories if you find mine helpful.
