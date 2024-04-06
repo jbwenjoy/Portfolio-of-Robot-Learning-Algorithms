@@ -44,7 +44,7 @@ My personal portfolio of robot learning algorithms, from course materials in 517
     <img src="/517%20-%20iLQR%20Direct%20Collocation/ilqroutput.png" width = "40%" alt="iLQR" />
 </div>
 
-### 5. Direct Collocatio
+### 5. Direct Collocation
 
 ### 6. Min-snap
 
@@ -62,17 +62,25 @@ My personal portfolio of robot learning algorithms, from course materials in 517
 ### 9. NeRF
 
 <div align="center">
-    <img src="/650 - NeRF/logs/training_progress_2_100.png" width = "40%" alt="NeRF at 100th Iteration" />
-    <img src="/650 - NeRF/logs/training_progress_2_300.png" width = "40%" alt="NeRF at 100th Iteration" />
-    <img src="/650 - NeRF/logs/training_progress_2_1000.png" width = "40%" alt="NeRF at 100th Iteration" />
-    <img src="/650 - NeRF/logs/training_progress_2_2000.png" width = "40%" alt="NeRF at 100th Iteration" />
+    <img src="/650 - NeRF/logs/training_progress_2_100.png" width = "90%" alt="NeRF at the 100th Iteration" />
+    <img src="/650 - NeRF/logs/training_progress_2_300.png" width = "90%" alt="NeRF at the 300th Iteration" />
+    <img src="/650 - NeRF/logs/training_progress_2_1000.png" width = "90%" alt="NeRF at the 100th Iteration" />
+    <img src="/650 - NeRF/logs/training_progress_2_2000.png" width = "90%" alt="NeRF at the 100th Iteration" />
 </div>
 
-### 10. Dynamic Programming (Value Iteration)
+### 10. Dynamic Programming
 
-<div align="center">
-    <img src="/517%20-%20TV-LQR%20Value%20Iteration/value_function.png" width = "50%" alt="Value Iteration" />
-</div>
+* Value Iteration
+
+    <div align="center">
+        <img src="/517%20-%20TV-LQR%20Value%20Iteration/value_function.png" width = "50%" alt="Value Iteration" />
+    </div>
+
+* Policy Iteration
+
+    <div align="center">
+        <img src="/650 - Policy Iteration/optimal policy.png" width = "50%" alt="Value Iteration" />
+    </div>
 
 ## Acknowledgements
 
