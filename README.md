@@ -50,6 +50,12 @@ My personal portfolio of robot learning algorithms, from course materials in 517
 
 ### 7. Kalman Filter, EKF, & UKF for quaternions
 
+* Using EKF to estimate a system parameter
+
+    <div align="center">
+        <img src="/650 - EKF/EKF_estimating_system_parameter_a.png" width = "40%" alt="EKF" />
+    </div>
+
 ### 8. 2D SLAM with Particle Filter
 
 <div align="center">
