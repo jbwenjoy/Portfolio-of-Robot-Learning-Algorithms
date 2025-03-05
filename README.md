@@ -88,8 +88,18 @@ My personal portfolio of robot learning algorithms, from course materials in 517
         <img src="/650 - Policy Iteration/optimal policy.png" width = "50%" alt="Value Iteration" />
     </div>
 
+### 11. PPO
+
+<div align="center">
+    <img src="/650 - PPO/training.png" width = "50%" alt="PPO Training Progress" />
+</div>
+
+<div align="center">
+    <img src="/650 - PPO/ppo_walker_test.png" width = "70%" alt="PPO Training Progress" />
+</div>
+
 ## Acknowledgements
 
-650 course materials are from Prof. Pratik Chaudhari, 517 course materials are from Prof. Michael Posa. 
+Original 650 course materials are from Prof. Pratik Chaudhari, 517 are from Prof. Michael Posa. 
 
 During my implementation, I also learned a lot from Anirudh Kailaje (https://github.com/KailajeAnirudh). Please also star his wonderful repositories if you find mine helpful.
